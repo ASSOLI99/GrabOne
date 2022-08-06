@@ -1,0 +1,18 @@
+.bg-main {
+  background-color: #01b2ee;
+  color: white;
+}
+.bg-main:hover {
+  background-color: #0cc2ff;
+  color: white;
+}
+.heading {
+  color: rgba(0, 0, 0, 0.644);
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.heading:hover {
+  color: #01b2ee;
+}
